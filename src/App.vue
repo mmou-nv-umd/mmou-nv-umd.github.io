@@ -635,7 +635,7 @@ onBeforeUnmount(() => {
                     <p class="text-[0.72rem] font-bold uppercase tracking-[0.3em] text-[var(--accent-strong)]">
                       MMOU
                     </p>
-                    <h1 class="display-font mt-2 text-4xl leading-[0.96] tracking-[-0.04em] text-[var(--ink)] sm:text-5xl">
+                    <h1 class="display-font mt-2 text-4xl leading-[0.96] tracking-[-0.04em] text-[var(--ink)] [overflow-wrap:anywhere] sm:text-5xl">
                       Massive Multi-Task Omni Understanding and Reasoning
                     </h1>
                   </div>
