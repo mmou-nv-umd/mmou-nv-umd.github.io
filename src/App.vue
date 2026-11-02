@@ -629,7 +629,7 @@ onBeforeUnmount(() => {
           <div class="mx-auto max-w-5xl">
             <UCard class="surface-card rounded-[34px] p-2">
               <div class="space-y-5 px-4 py-5 sm:px-6 sm:py-6">
-                <div class="flex items-start gap-4">
+                <div class="flex flex-col items-start gap-4 sm:flex-row">
                   <img src="/images/logo.webp" alt="MMOU logo" class="h-14 w-auto object-contain sm:h-16">
                   <div class="min-w-0">
                     <p class="text-[0.72rem] font-bold uppercase tracking-[0.3em] text-[var(--accent-strong)]">
